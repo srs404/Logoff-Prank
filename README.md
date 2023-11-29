@@ -1,5 +1,6 @@
 # Logoff-Prank
-This is a harmless prank for my friends and to scare them. Educational Purpose Only.
+A fun little harmless python code to prank my friends. 
+*Educational Purpose Only.*
 
 <details>
   <summary>Libraries Used</summary>
@@ -20,3 +21,5 @@ main() | Main Driver Function To Handle All Operations And Returns
 
 
 ![Source Code](https://github.com/srs404/Logoff-Prank/blob/main/prank.png "Source Code")
+
+**Note: There Are Several FailSafe Implemented To Avoid Any Harm To The Device**
