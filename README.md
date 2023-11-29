@@ -1,6 +1,6 @@
 # Logoff-Prank
 A fun little harmless python code to prank my friends. 
-*Educational Purpose Only.*
+<br>*Educational Purpose Only.*
 
 <details>
   <summary>Libraries Used</summary>
