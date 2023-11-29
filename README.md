@@ -4,6 +4,8 @@ This is a harmless prank for my friends and to scare them. Educational Purpose O
 <details>
   <summary>Libraries Used</summary>
   <p>OS, ctypes, sys & time</p>
+</details>
+<details>
   <summary>Written Functions</summary>
   <p>
 
