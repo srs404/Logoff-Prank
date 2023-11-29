@@ -1,10 +1,6 @@
-<center>
-
 # Logoff-Prank
 A fun little harmless python code to prank my friends. 
 <br>*Educational Purpose Only.*
-
-</center>
 
 <details>
   <summary>Libraries Used</summary>
@@ -22,12 +18,10 @@ main() | Main Driver Function To Handle All Operations And Returns
     
   </p>
 </details>
-
+<br>
 
 ![Source Code](https://github.com/srs404/Logoff-Prank/blob/main/prank.png "Source Code")
 
-<center>
-
+<br>
 **Note: There Are Several FailSafe Implemented To Avoid Any Harm To The Device**
 
-</center>
